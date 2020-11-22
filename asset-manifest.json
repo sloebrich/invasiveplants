@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bukugulma/static/css/main.6458fc11.chunk.css",
-    "main.js": "/bukugulma/static/js/main.fff8e20c.chunk.js",
-    "main.js.map": "/bukugulma/static/js/main.fff8e20c.chunk.js.map",
+    "main.js": "/bukugulma/static/js/main.bac1e28b.chunk.js",
+    "main.js.map": "/bukugulma/static/js/main.bac1e28b.chunk.js.map",
     "runtime-main.js": "/bukugulma/static/js/runtime-main.25eb1aee.js",
     "runtime-main.js.map": "/bukugulma/static/js/runtime-main.25eb1aee.js.map",
     "static/css/2.7f9dbe85.chunk.css": "/bukugulma/static/css/2.7f9dbe85.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.7f9dbe85.chunk.css",
     "static/js/2.1e69e148.chunk.js",
     "static/css/main.6458fc11.chunk.css",
-    "static/js/main.fff8e20c.chunk.js"
+    "static/js/main.bac1e28b.chunk.js"
   ]
 }
