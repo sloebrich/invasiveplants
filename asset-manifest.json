@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/bukugulma/static/css/main.92386354.chunk.css",
-    "main.js": "/bukugulma/static/js/main.379b5cf2.chunk.js",
-    "main.js.map": "/bukugulma/static/js/main.379b5cf2.chunk.js.map",
+    "main.css": "/bukugulma/static/css/main.931f3064.chunk.css",
+    "main.js": "/bukugulma/static/js/main.8f9a27a0.chunk.js",
+    "main.js.map": "/bukugulma/static/js/main.8f9a27a0.chunk.js.map",
     "runtime-main.js": "/bukugulma/static/js/runtime-main.25eb1aee.js",
     "runtime-main.js.map": "/bukugulma/static/js/runtime-main.25eb1aee.js.map",
     "static/css/2.7f9dbe85.chunk.css": "/bukugulma/static/css/2.7f9dbe85.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.f0afec42.chunk.js.map": "/bukugulma/static/js/3.f0afec42.chunk.js.map",
     "index.html": "/bukugulma/index.html",
     "static/css/2.7f9dbe85.chunk.css.map": "/bukugulma/static/css/2.7f9dbe85.chunk.css.map",
-    "static/css/main.92386354.chunk.css.map": "/bukugulma/static/css/main.92386354.chunk.css.map",
+    "static/css/main.931f3064.chunk.css.map": "/bukugulma/static/css/main.931f3064.chunk.css.map",
     "static/js/2.89cb1997.chunk.js.LICENSE.txt": "/bukugulma/static/js/2.89cb1997.chunk.js.LICENSE.txt",
     "static/media/slick-theme.css": "/bukugulma/static/media/slick.c94f7671.ttf"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.25eb1aee.js",
     "static/css/2.7f9dbe85.chunk.css",
     "static/js/2.89cb1997.chunk.js",
-    "static/css/main.92386354.chunk.css",
-    "static/js/main.379b5cf2.chunk.js"
+    "static/css/main.931f3064.chunk.css",
+    "static/js/main.8f9a27a0.chunk.js"
   ]
 }
