@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/bukugulma/static/css/main.2f4cdb61.chunk.css",
-    "main.js": "/bukugulma/static/js/main.a614ad3e.chunk.js",
-    "main.js.map": "/bukugulma/static/js/main.a614ad3e.chunk.js.map",
-    "runtime-main.js": "/bukugulma/static/js/runtime-main.25eb1aee.js",
-    "runtime-main.js.map": "/bukugulma/static/js/runtime-main.25eb1aee.js.map",
-    "static/css/2.7f9dbe85.chunk.css": "/bukugulma/static/css/2.7f9dbe85.chunk.css",
-    "static/js/2.89cb1997.chunk.js": "/bukugulma/static/js/2.89cb1997.chunk.js",
-    "static/js/2.89cb1997.chunk.js.map": "/bukugulma/static/js/2.89cb1997.chunk.js.map",
-    "static/js/3.f0afec42.chunk.js": "/bukugulma/static/js/3.f0afec42.chunk.js",
-    "static/js/3.f0afec42.chunk.js.map": "/bukugulma/static/js/3.f0afec42.chunk.js.map",
-    "index.html": "/bukugulma/index.html",
-    "static/css/2.7f9dbe85.chunk.css.map": "/bukugulma/static/css/2.7f9dbe85.chunk.css.map",
-    "static/css/main.2f4cdb61.chunk.css.map": "/bukugulma/static/css/main.2f4cdb61.chunk.css.map",
-    "static/js/2.89cb1997.chunk.js.LICENSE.txt": "/bukugulma/static/js/2.89cb1997.chunk.js.LICENSE.txt",
-    "static/media/slick-theme.css": "/bukugulma/static/media/slick.c94f7671.ttf"
+    "main.css": "/invasiveplants/static/css/main.596c7ce6.chunk.css",
+    "main.js": "/invasiveplants/static/js/main.1e551e12.chunk.js",
+    "main.js.map": "/invasiveplants/static/js/main.1e551e12.chunk.js.map",
+    "runtime-main.js": "/invasiveplants/static/js/runtime-main.61739214.js",
+    "runtime-main.js.map": "/invasiveplants/static/js/runtime-main.61739214.js.map",
+    "static/css/2.e775b2f0.chunk.css": "/invasiveplants/static/css/2.e775b2f0.chunk.css",
+    "static/js/2.4a3664de.chunk.js": "/invasiveplants/static/js/2.4a3664de.chunk.js",
+    "static/js/2.4a3664de.chunk.js.map": "/invasiveplants/static/js/2.4a3664de.chunk.js.map",
+    "static/js/3.dec20d86.chunk.js": "/invasiveplants/static/js/3.dec20d86.chunk.js",
+    "static/js/3.dec20d86.chunk.js.map": "/invasiveplants/static/js/3.dec20d86.chunk.js.map",
+    "index.html": "/invasiveplants/index.html",
+    "static/css/2.e775b2f0.chunk.css.map": "/invasiveplants/static/css/2.e775b2f0.chunk.css.map",
+    "static/css/main.596c7ce6.chunk.css.map": "/invasiveplants/static/css/main.596c7ce6.chunk.css.map",
+    "static/js/2.4a3664de.chunk.js.LICENSE.txt": "/invasiveplants/static/js/2.4a3664de.chunk.js.LICENSE.txt",
+    "static/media/cover_old.36c02aed.jpg": "/invasiveplants/static/media/cover_old.36c02aed.jpg",
+    "static/media/slick-theme.css": "/invasiveplants/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.25eb1aee.js",
-    "static/css/2.7f9dbe85.chunk.css",
-    "static/js/2.89cb1997.chunk.js",
-    "static/css/main.2f4cdb61.chunk.css",
-    "static/js/main.a614ad3e.chunk.js"
+    "static/js/runtime-main.61739214.js",
+    "static/css/2.e775b2f0.chunk.css",
+    "static/js/2.4a3664de.chunk.js",
+    "static/css/main.596c7ce6.chunk.css",
+    "static/js/main.1e551e12.chunk.js"
   ]
 }
