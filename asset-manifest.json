@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/invasiveplants/static/css/main.596c7ce6.chunk.css",
-    "main.js": "/invasiveplants/static/js/main.1e551e12.chunk.js",
-    "main.js.map": "/invasiveplants/static/js/main.1e551e12.chunk.js.map",
+    "main.js": "/invasiveplants/static/js/main.b8ecca4f.chunk.js",
+    "main.js.map": "/invasiveplants/static/js/main.b8ecca4f.chunk.js.map",
     "runtime-main.js": "/invasiveplants/static/js/runtime-main.61739214.js",
     "runtime-main.js.map": "/invasiveplants/static/js/runtime-main.61739214.js.map",
     "static/css/2.e775b2f0.chunk.css": "/invasiveplants/static/css/2.e775b2f0.chunk.css",
@@ -14,7 +14,6 @@
     "static/css/2.e775b2f0.chunk.css.map": "/invasiveplants/static/css/2.e775b2f0.chunk.css.map",
     "static/css/main.596c7ce6.chunk.css.map": "/invasiveplants/static/css/main.596c7ce6.chunk.css.map",
     "static/js/2.4a3664de.chunk.js.LICENSE.txt": "/invasiveplants/static/js/2.4a3664de.chunk.js.LICENSE.txt",
-    "static/media/cover_old.36c02aed.jpg": "/invasiveplants/static/media/cover_old.36c02aed.jpg",
     "static/media/slick-theme.css": "/invasiveplants/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
@@ -22,6 +21,6 @@
     "static/css/2.e775b2f0.chunk.css",
     "static/js/2.4a3664de.chunk.js",
     "static/css/main.596c7ce6.chunk.css",
-    "static/js/main.1e551e12.chunk.js"
+    "static/js/main.b8ecca4f.chunk.js"
   ]
 }
