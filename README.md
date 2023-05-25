@@ -1,4 +1,4 @@
-# Invasive Plants
-MERN stack website for an overview over different kinds of oil palm weed (in Indonesian)
+# Buku Gulma (weed book)
+MERN stack website for an overview over different kinds of weeds or invasive plants under the oil palm plantation ecosystem in Indonesia, accessible under 
 
-sloebrich.github.io/invasiveplants
+https://sloebrich.github.io/bukugulma/ 
