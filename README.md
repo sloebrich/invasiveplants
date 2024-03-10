@@ -7,6 +7,7 @@ accessible under https://sloebrich.github.io/invasiveplants
 ![Screenshot 2024-02-09 160022](https://github.com/sloebrich/invasiveplants/assets/59025617/417833f9-c705-477e-a775-7d44e4497a5e)
 
 Technial information:
- - The website is build on the MERN stack (MongoDB, Express, React, Node)
- - An api to retrieve the plant data from MongoDB is deployed on Render and the image files are hosted on Dropbox. 
- - The frontend is hosted on GitHub pages. 
+ - The website is build with the MERN stack (MongoDB, Express, React, Node.js)
+ - Plant data is stored on MongoDB and the image files are hosted on Dropbox API.
+ - A Node.js API is deployed on Render to retrieve the data and perform admin CRUD operations. Due to Render free tier, it can take a few seconds on first load.
+ - The React frontend is hosted on GitHub pages. 
